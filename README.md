@@ -1,0 +1,1 @@
+I analyze sampling effort for vascular plants using data compiled from the Global Biodiversity Information Facility (GBIF) for the Himalaya and explore the drivers of sampling bias. This repository provides the datasets, spatial layers, and code necessary to replicate the analyses and assess drivers of sampling effort.
